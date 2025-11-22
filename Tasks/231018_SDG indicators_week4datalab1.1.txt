@@ -1,0 +1,48 @@
+B) Questions: Defining objects as data
+
+1.Choose an object to define: e.g. near you or something you like or want to understand better.
+A.1. Laptop
+
+2.Describe the object in at least 100 words.
+A.2.Laptop is a portable personal computer ,it makes you do the same tasks that you usually do on a PC , but in any different environments,a laptop contains screen and keyboard and touchpad , it comes in different sizes and names and brands depends on what you want to use it for ,for instance gamers tend to buy laptops with big screen, and it also comes with different operating system (windows ,macOS, linux,...)
+you may also specialize it in many areas, such as processors (cpu), graphics cards (gpu), memory type and speed (RAM), storage (hdd,ssd), and, of course, the screen (oled,lcd,led,...)
+3.Quantify the object into (at least 10) variables.
+A.3.1-Laptop brand: (apple,msi,lenovo,hp,...)
+2-operating system:(windows,macOS,linux,...)
+3-screen diagnosal:(14,15,16,17,18)by inches
+4-processor type:(ryzen,intel,qualcom,...)
+5-processor generation(7th,8th,9th,10th,...)
+6-storage type:(hdd,ssd,...)
+7-ram sizes:(8,16,32,64,...)
+8-screen type:(lcd,led,oled,...)
+9-keyboard layout:(azerty,qwert,....)
+10-laptop price:(1000,1300,1800,2100,...).
+4.Form a data-driven research question based on your variables and the description of the object.
+A.4. what is the main reason that effects customer opinion in chosing the operating system that's suits him?is it related to the brand it self,or is it more about the work load the user will preform on the laptop ,as programers tend to have windows more often than macOS .
+
+C) Questions: Defining phenomena as data
+
+1.Choose a phenomenon to define: e.g. near you or something you like or want to understand better.
+A.1.Rainbow
+
+2.Describe the phenomenon in at least 100 words.
+A rainbow is multicolored arc, it is made by light striking water droplets, the most usual type of a rainbow is produced when sunlight hits raindrops in front of the viewer at a precise angle(42degree).Rainbows can also be viewed around fogs ,sea spray, waterfalls.
+A rainbow is an optical illusion it doesn't exist in a specific spot in the sky . The appearance of a rainbow depends on where you're standing and where the sun(or the source of light) is shining.A rainbow shows up as a spectrum of light: a band of familiar colors that include red, orange, yellow, green, blue, and violet.
+
+3.Quantify the phenomenon into (at least 10) variables.
+A.3. 1-Wavelengh of incident light : (Numerical) - Measured in nanometers (nm), indicating the color of the incoming sunlight.
+2-Angle of incidence :The angle at which sunlight enters a water droplet.
+3-Angle of Reflection:The angle at which light exits a water droplet.
+4-Droplet Size: Measured in micrometers (µm), representing the size of water droplets.
+5-Droplet Distribution:Uniform or non-uniform distribution of water droplets in the atmosphere.
+6-sun position : azimuth and elevation angles of the sunin the sky
+7-Atmospheric conditions : clair, rainy. or other conditions.
+8- observer place : latitude and longitude coordinates of the observer position on earth
+9- visibility: measured in kilometers
+10-time of the day : the local time when the rainbow occurs.
+4.Form a data-driven research question based on your variables and the description of the phenomena.
+A.4.How do variations in the wavelength of incident sunlight, angles of incidence and reflection, droplet size and distribution, sun's position in the sky, atmospheric conditions, observer's location, visibility, and time of day collectively affect the appearance and visibility of rainbows?
+
+
+resource: https://en.wikipedia.org/wiki/Laptop
+resource:https://education.nationalgeographic.org/resource/rainbow/
